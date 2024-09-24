@@ -1,0 +1,18 @@
+[project]
+name = "coding-kata"
+dependencies = [
+    "pytest",
+    "debugpy"
+]
+
+
+[tool.ruff]
+exclude = [
+    ".venv",
+    ".git"
+]
+
+[tool.basedpyright]
+venvPath = ".venv"
+venv = ".venv"
+
