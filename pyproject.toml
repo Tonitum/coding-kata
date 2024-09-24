@@ -13,6 +13,6 @@ exclude = [
 ]
 
 [tool.basedpyright]
-venvPath = ".venv"
+venvPath = "."
 venv = ".venv"
 
