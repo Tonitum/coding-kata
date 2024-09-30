@@ -1,4 +1,4 @@
-add_executable(
+add_library(
   solution
   ${CMAKE_CURRENT_LIST_DIR}/solution345.cpp
 )
