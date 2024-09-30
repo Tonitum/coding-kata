@@ -1,2 +1,4 @@
 __pycache__
 .venv
+leetcode/cpp/**/bin
+_build
